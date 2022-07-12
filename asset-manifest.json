@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.6e94cc51.css",
-    "main.js": "/portfolio-react/static/js/main.b0994bfe.js",
+    "main.css": "/portfolio-react/static/css/main.e07591b5.css",
+    "main.js": "/portfolio-react/static/js/main.60c7ba4c.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/GOTHIC.TTF": "/portfolio-react/static/media/GOTHIC.b194aa2bd524e2c973f7.TTF",
     "static/media/bubbles.svg": "/portfolio-react/static/media/bubbles.b1559d0cb7331e1ea0e33c89d5ba711a.svg",
     "static/media/listatareas-min.webp": "/portfolio-react/static/media/listatareas-min.5944b0cd2969b8a78e7a.webp",
     "static/media/yogaypilatesoviedo-min.webp": "/portfolio-react/static/media/yogaypilatesoviedo-min.687c396aa6ac0e8d2f09.webp",
     "static/media/elmenudealicia-min.webp": "/portfolio-react/static/media/elmenudealicia-min.f105ed41146dd6098d8e.webp",
-    "static/media/bgcolors2.webp": "/portfolio-react/static/media/bgcolors2.c9ef6056f2115416c676.webp",
+    "static/media/bgcolors2.webp": "/portfolio-react/static/media/bgcolors2.005ac394a149d1dcecc5.webp",
     "static/media/celiamartinperez-min.webp": "/portfolio-react/static/media/celiamartinperez-min.1aa181edbc7edfa21874.webp",
     "static/media/personal-image.webp": "/portfolio-react/static/media/personal-image.cdd816fc6116987b17e4.webp",
     "static/media/weather-min.webp": "/portfolio-react/static/media/weather-min.88764e979e84f5958574.webp",
@@ -26,12 +26,12 @@
     "static/media/mail.svg": "/portfolio-react/static/media/mail.39b376b25003f87940aec38dd19b27b6.svg",
     "static/media/left.svg": "/portfolio-react/static/media/left.a162c3b6288c2cb200cf40dd3065ac77.svg",
     "static/media/right.svg": "/portfolio-react/static/media/right.989cef5c538bb378e61353a4dc0ee736.svg",
-    "main.6e94cc51.css.map": "/portfolio-react/static/css/main.6e94cc51.css.map",
-    "main.b0994bfe.js.map": "/portfolio-react/static/js/main.b0994bfe.js.map",
+    "main.e07591b5.css.map": "/portfolio-react/static/css/main.e07591b5.css.map",
+    "main.60c7ba4c.js.map": "/portfolio-react/static/js/main.60c7ba4c.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e94cc51.css",
-    "static/js/main.b0994bfe.js"
+    "static/css/main.e07591b5.css",
+    "static/js/main.60c7ba4c.js"
   ]
 }
