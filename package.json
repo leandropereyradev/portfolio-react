@@ -1,7 +1,8 @@
 {
   "name": "portfolio-react",
   "version": "0.1.0",
-  "private": true,
+  "private": true,  
+  "homepage": "https://leandropereyradev.github.io/portfolio-react",
   "dependencies": {
     "@popperjs/core": "^2.11.5",
     "@testing-library/jest-dom": "^5.16.4",
