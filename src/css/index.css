@@ -14,9 +14,7 @@ body {
   font-family: 'Gothic';
   color: aliceblue !important;
   background-image: url('../assets/base/bgcolors2.webp');
-  background-position: center;
   background-attachment: fixed;
-  background-repeat: no-repeat;
   background-size: cover;
   letter-spacing: 4px;
 }

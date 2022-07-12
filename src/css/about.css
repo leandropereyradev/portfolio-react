@@ -58,6 +58,7 @@
     border-style: none;
     letter-spacing: 4px;
     font-family: Gothic;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 700px) {
@@ -131,7 +132,8 @@
     }
 
     .about_image-container img {
-        max-width: 550px;
+        max-width: 500px;
+        padding-top: 4rem;
     }
 
     .about_title {

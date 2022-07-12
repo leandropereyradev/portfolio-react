@@ -54,7 +54,7 @@ export const bdPortfolio = [
     title: "Leandro Pereyra",
     subtitle: "Wep Personal",
     tech: "React.JS | BootStrap | JavaScript",
-    github: "https://leandropereyradev.github.io/web-personal/",
+    github: "https://github.com/leandropereyradev/portfolio-react",
     image: leandro,
   },
 ];

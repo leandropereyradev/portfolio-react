@@ -47,15 +47,15 @@ const AboutPop = ({ estado, set }) => {
                     llamaremos Desarrollador Web v1.0 - Trainee, porque aún están creciendo.
                   </p>
                   <p className="aboutPop_info_title_text">
-                    Te invito a que seas parte del aire que surco, que seas mi experiencia. Que, en momentos de fuertes ráfagas, saber que
-                    estás allí para aprender a mantenerme en vuelo mientras se soluciona. Que hermoso es volar a diferentes alturas,
-                    temperaturas. Porque no todo es una suave brisa, y es lo que más me gusta, sino me aburro. Quiero ser un experto
+                  Os invito a que seáis parte del aire que surco, que seáis mi experiencia. Que, en momentos de fuertes ráfagas, saber que
+                    estáis allí para aprender a mantenerme en vuelo mientras se soluciona. ¡Que hermoso es volar a diferentes alturas,
+                    temperaturas!. Porque no todo es una suave brisa, y es lo que más me gusta, sino me aburro. Quiero ser un experto
                     surcando los aires del Desarrollo Web. Volar con otros para adquirir valores, métodos, prácticas y hacer de todo ello mi
                     experiencia.
                   </p>
                   <p className="aboutPop_info_title_text">
                     Pues, lo dicho; Soy un Desarrollador Web Front-End con experiencia en creación de sitios y aplicaciones web. Autodidacta
-                    por naturaleza. Me especializo en <span>React.JS</span> y tengo experiencia trabajando con <span>WordPress</span>,{" "}
+                    por naturaleza. Me especializo en <span>React.JS</span>, como tambien, experiencia trabajando con <span>WordPress</span>,{" "}
                     <span>HTML</span>, <span>CSS</span>, <span>Next.JS</span>. Siempre busco mejorar mis habilidades y seguir creciendo
                     profesionalmente para poder hacer aportes valiosos al grupo de trabajo del que puedo formar parte. Depende de vosotros.
                     Conozcámonos para darnos la oportunidad. ¿Y si terminamos siendo un equipazo? ¿Saltamos?
