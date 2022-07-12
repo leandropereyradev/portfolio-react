@@ -1,0 +1,135 @@
+.aboutPop-container {
+    position: fixed;
+    background-image: url('../assets/base/bgcolors2.webp');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0.5rem;
+    z-index: 99999;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.aboutPop-container::-webkit-scrollbar {
+    width: 2px;
+}
+
+.aboutPop-container::-webkit-scrollbar-track {
+    background: rgb(32, 19, 37);
+}
+
+.aboutPop-container::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 44, 143);
+    border-radius: 20px;
+}
+
+.aboutPop_about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.418);
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+.aboutPop_info_title_text {
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+}
+
+.aboutPop_info_title_text span {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+.aboutPop_title {
+    font-size: 0.8rem;
+    font-style: italic;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+.aboutPop_info_title_title {
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.version {
+    font-style: italic;
+    font-size: 0.8rem;
+    padding-bottom: 2rem;
+}
+
+.aboutPop_info_title_text {
+    margin: 2rem 0;
+}
+
+.dialog {
+    font-style: italic;
+    font-size: 0.8rem;
+    text-indent: 2rem;
+}
+
+.aboutPop_exit {
+    position: fixed;
+    top: 1rem;
+    right: 0.5rem;
+}
+
+.aboutPop_exit img {
+    width: 1.5rem;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.aboutPop_exit img:hover {
+    transform: scale(120%);
+}
+
+@media screen and (min-width: 700px) {
+    .aboutPop-container {
+        padding: 3rem;
+    }
+
+    .aboutPop_title {
+        font-size: 1.5rem;
+    }
+
+    .aboutPop_info_title_title {
+        font-size: 2.5rem;
+    }
+
+    .aboutPop_info_title_text {
+        font-size: 1rem;
+        line-height: 1.3rem;
+        text-align: justify;
+    }
+
+    .dialog {
+        font-size: 1rem;
+    }
+
+    .aboutPop_exit {
+        top: 1rem;
+        right: 1rem;
+    }
+
+    .aboutPop_exit img {
+        width: 1.8rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .aboutPop_about {
+        padding: 4rem 7rem;
+    }
+}

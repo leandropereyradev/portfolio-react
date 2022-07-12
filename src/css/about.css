@@ -1,0 +1,140 @@
+.about-container {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.about_image-container {
+    display: flex;
+    height: 65vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_image-container img {
+    width: 75%;
+    max-width: 400px;
+    border-radius: 1%;
+}
+
+.about_title-container {
+    position: absolute;
+    bottom: 2rem;
+    margin-left: 1rem;
+}
+
+.about_title {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+}
+
+.about_subtitle {
+    font-size: 1rem;
+}
+
+.about_lines-container_firstLine,
+.about_lines-container_secondLine {
+    height: 3px;
+    width: 10rem;
+    background-color: aliceblue;
+    margin: 0.8rem 0;
+}
+
+.about_lines-container_secondLine {
+    margin-left: 3rem;
+}
+
+.about_button {
+    border-radius: 5px;
+    padding: 7px 7px;
+    color: #fff;
+    background-color: rgb(255, 0, 149);
+    margin-right: 8px;
+    font-size: 0.8rem;
+    margin-top: 1rem;
+    border-style: none;
+    letter-spacing: 4px;
+    font-family: Gothic;
+}
+
+@media screen and (min-width: 700px) {
+    .about-container {
+        padding: 0;
+    }
+
+    .about_title-container {
+        margin-left: 3rem;
+    }
+
+    .about_title {
+        font-size: 5rem;
+        margin-bottom: 1rem;
+    }
+
+    .about_subtitle {
+        font-size: 2rem;
+    }
+
+    .about_lines-container_firstLine,
+    .about_lines-container_secondLine {
+        width: 15rem;
+        margin: 1rem 0;
+    }
+
+    .about_button {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+    }
+
+    .about_lines-container_secondLine {
+        margin-left: 4rem;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+
+    .about_image-container {
+        height: 80vh;
+        justify-content: end;
+        margin-right: 7rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .about-container {
+        margin-top: 2rem;
+    }
+
+    .about_image-container {
+        margin-right: 9rem;
+    }
+
+    .about_title-container {
+        margin-left: 8rem;
+    }
+
+    .about_title {
+        font-size: 6rem;
+    }
+}
+
+@media screen and (min-width: 1900px) {
+    .about-container {
+        padding: 5rem 0;
+    }
+
+    .about_image-container {
+        margin-right: 15rem;
+    }
+
+    .about_image-container img {
+        max-width: 550px;
+    }
+
+    .about_title {
+        font-size: 6rem;
+    }
+}
